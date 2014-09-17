@@ -6,13 +6,16 @@
 */
 
 module.exports = {
-  simplify: function(geojson) {
+  reproject: function(geojson) {
 
   },
 
   shp2geojson: function(shpBinary) {
 
-  }
+  },
 
+  simplify: function(geojson) {
+
+  },
 
 };
